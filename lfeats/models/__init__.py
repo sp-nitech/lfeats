@@ -19,6 +19,7 @@ from .r_spin import RSpinModel
 from .r_vector import RVectorModel
 from .redimnet import ReDimNetModel
 from .redimnet2 import ReDimNet2Model
+from .redimnet2_plus import ReDimNet2PlusModel
 from .spidr import SpidRModel
 from .spin import SpinModel
 from .sslzip import SSLZipModel
@@ -47,6 +48,7 @@ MODEL_MAP = {
     "r-vector": RVectorModel,
     "redimnet": ReDimNetModel,
     "redimnet2": ReDimNet2Model,
+    "redimnet2+": ReDimNet2PlusModel,
     "spidr": SpidRModel,
     "spin": SpinModel,
     "sslzip": SSLZipModel,

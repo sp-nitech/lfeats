@@ -127,6 +127,7 @@ pip install git+https://github.com/takenori-y/lfeats.git@master
 | | `b4` | 192 | | | |
 | | `b5` | 192 | | | |
 | | `b6` | 192 | | | |
+| `redimnet2+` | `b6` | 192 | [arXiv](https://arxiv.org/abs/2609.37014) | [GitHub](https://github.com/lab260ru/redimnet2-plus) | [🤗](https://huggingface.co/lab260/redimnet2-plus) |
 | `wavlm-sv` | `base` | 512 | [arXiv](https://arxiv.org/abs/2110.13900) | [GitHub](https://github.com/microsoft/unilm/tree/master/wavlm) | [🤗](https://huggingface.co/microsoft/wavlm-base-sv) |
 | | `base+` | 512 | | | [🤗](https://huggingface.co/microsoft/wavlm-base-plus-sv) |
 | `x-vector` | `base` | 512 | [IEEE](https://ieeexplore.ieee.org/document/8461375) | [GitHub](https://github.com/speechbrain/speechbrain) | [🤗](https://huggingface.co/speechbrain/spkrec-xvect-voxceleb) |
