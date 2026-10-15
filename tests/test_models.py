@@ -31,6 +31,7 @@ from tests.utils import generate_dummy_waveform
         ("r-vector", "base"),
         ("redimnet", "b0"),
         ("redimnet2", "b0"),
+        ("redimnet2+", "b6"),
         ("spidr", "base"),
         ("spin", "hubert-128"),
         ("spin", "wavlm-128"),
