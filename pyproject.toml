@@ -12,7 +12,7 @@ description = "A unified interface to extract hidden representations from speech
 readme = "README.md"
 requires-python = ">=3.10"
 keywords = ["pytorch", "speech-processing", "self-supervised-learning"]
-license = "BSD-3-Clause AND Apache-2.0 AND MIT"
+license = "Apache-2.0 AND MIT"
 license-files = ["LICENSE", "lfeats/third_party/*/LICENSE"]
 classifiers = [
   "Programming Language :: Python",

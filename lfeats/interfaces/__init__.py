@@ -1,4 +1,4 @@
 # Copyright (c) 2026 Nagoya Institute of Technology
-# SPDX-License-Identifier: BSD-3-Clause
+# SPDX-License-Identifier: Apache-2.0
 
 """The module for interfaces."""

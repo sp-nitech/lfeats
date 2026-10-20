@@ -303,7 +303,7 @@ $ lfeats input.wav --model_name hubert --model_variant base --layers 12
 
 ## License
 
-This project is released under the BSD 3-Clause License.
+This project is released under the Apache License 2.0.
 
 ### Third-Party Licenses
 

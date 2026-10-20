@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 # Copyright (c) 2026 Nagoya Institute of Technology
-# SPDX-License-Identifier: BSD-3-Clause
+# SPDX-License-Identifier: Apache-2.0
 
 """A script to extract latent features from audio using pretrained models."""
 
