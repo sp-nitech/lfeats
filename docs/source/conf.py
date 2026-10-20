@@ -7,7 +7,7 @@
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 project = "lfeats"
-copyright = "2026, Takenori Yoshimura"
+copyright = "2026, Nagoya Institute of Technology"
 author = "Takenori Yoshimura"
 exec(open(f"../../{project}/version.py").read())
 release = __version__

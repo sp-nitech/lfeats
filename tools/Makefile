@@ -1,5 +1,5 @@
-# Copyright (c) 2026 Takenori Yoshimura
-# Released under the MIT License.
+# Copyright (c) 2026 Nagoya Institute of Technology
+# SPDX-License-Identifier: BSD-3-Clause
 
 PINACT_VERSION  := 5.0.0
 TAPLO_VERSION   := 0.10.0

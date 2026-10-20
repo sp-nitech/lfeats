@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
-# Copyright (c) 2026 Takenori Yoshimura
-# Released under the MIT License.
+# Copyright (c) 2026 Nagoya Institute of Technology
+# SPDX-License-Identifier: BSD-3-Clause
 
 """A script to extract latent features from audio using pretrained models."""
 

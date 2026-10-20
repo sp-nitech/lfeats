@@ -1,5 +1,5 @@
 [build-system]
-requires = ["hatchling"]
+requires = ["hatchling >= 1.27"]
 build-backend = "hatchling.build"
 
 [project]
@@ -12,9 +12,9 @@ description = "A unified interface to extract hidden representations from speech
 readme = "README.md"
 requires-python = ">=3.10"
 keywords = ["pytorch", "speech-processing", "self-supervised-learning"]
-license = { text = "MIT" }
+license = "BSD-3-Clause AND Apache-2.0 AND MIT"
+license-files = ["LICENSE", "lfeats/third_party/*/LICENSE"]
 classifiers = [
-  "License :: OSI Approved :: MIT License",
   "Programming Language :: Python",
   "Programming Language :: Python :: 3.10",
   "Programming Language :: Python :: 3.11",
