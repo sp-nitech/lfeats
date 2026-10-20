@@ -61,8 +61,8 @@ dev = [
 ]
 
 [project.urls]
-Documentation = "https://takenori-y.github.io/lfeats/stable/"
-Source = "https://github.com/takenori-y/lfeats"
+Documentation = "https://sp-nitech.github.io/lfeats/stable/"
+Source = "https://github.com/sp-nitech/lfeats"
 
 [project.scripts]
 lfeats = "lfeats.cli:main"

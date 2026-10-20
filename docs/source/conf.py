@@ -33,13 +33,13 @@ html_theme_options = {
         "text": project,
     },
     "switcher": {
-        "json_url": f"https://takenori-y.github.io/{project}/switcher.json",
+        "json_url": f"https://sp-nitech.github.io/{project}/switcher.json",
         "version_match": "latest" if "dev" in release else release,
     },
     "icon_links": [
         {
             "name": "GitHub",
-            "url": f"https://github.com/takenori-y/{project}/",
+            "url": f"https://github.com/sp-nitech/{project}/",
             "icon": "fab fa-github-square",
         },
         {
